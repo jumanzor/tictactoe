@@ -204,7 +204,7 @@ def MiniMaxOLD(tablero,profundidad,jugador):
 #    inicia el juego
 ########################################################
 
-1casillas=[" "]*9
+casillas=[" "]*9
 #casillas=["X","X","0",
 #          " ","0"," ",
 #          " ","0"," ",]
